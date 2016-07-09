@@ -1,0 +1,10 @@
+Searching 44 files for "bg.jpg"
+
+/Users/emilymattlin/Desktop/startbootstrap-stylish-portfolio-1.0.5/css/stylish-portfolio.css:
+  156      width: 100%;
+  157      height: 100%;
+  158:     background: url(../img/rosie.jpg) no-repeat center center scroll;
+  159      -webkit-background-size: cover;
+  160      -moz-background-size: cover;
+
+1 match in 1 file
